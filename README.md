@@ -3,8 +3,10 @@
 Mainly meant for a DevOps type of person
 
 ## Key Systems
-* App - the main application. Hosted on Galaxy
-* MSS - MoneyComb Scheduler System - hosted as a docker container on Digital Ocean
+| System       |  Purpose    | Hosted By |
+| ------------ |-----------| :--------:|
+| App | the main application| MDG Galaxy |
+| MSS | MoneyComb Scheduler System - hosted as a docker container| Digital Ocean |
 
 This is a [link to a page called booger](./booger.md)
 
