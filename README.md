@@ -1,4 +1,4 @@
-![MoneyComb Logo](./Icon.png)
+![MoneyComb Logo](./Icon 8KB.png)
 # Moneycomb Tech Documentation
 Mainly meant for a DevOps type of person
 
