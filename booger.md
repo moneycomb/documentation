@@ -1,3 +1,3 @@
 # Booger
 Hi there! 
-A [link back](./README)
+A [link back](./README.md)
